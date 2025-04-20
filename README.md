@@ -54,7 +54,6 @@ php artisan db:seed
 
 ```
 php artisan serve
-php artisan queue:work
 ```
 
-Buka aplikasi di browser <a href="http://localhost:8000">http://localhost/</a>
+Buka aplikasi di browser <a href="http://localhost:8000">http://localhost:8000</a>
